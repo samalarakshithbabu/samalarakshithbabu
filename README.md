@@ -2,7 +2,7 @@
   <img src="banner.svg" alt="Samala Rakshith Babu - Data Science Graduate" width="100%">
 </p>
 
-# 👋 Hi, I'm Rakshith
+# 👋 Hi, I'm Rakshith Babu
 
 I'm a **Data Science graduate** from Hyderabad who turns raw data into clear answers using **SQL, Python and dashboards**. I'm building a portfolio of end-to-end analytics projects (question → data → analysis → insight → recommendation), alongside a background in AI/ML and Python development.
 
