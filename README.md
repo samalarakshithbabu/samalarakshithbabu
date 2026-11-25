@@ -1,73 +1,68 @@
-<p align="center">
-  <img src="banner.svg" alt="Samala Rakshith Babu - Data Science Graduate" width="100%">
-</p>
+# Samala Rakshith Babu - Portfolio
 
-# 👋 Hi, I'm Rakshith Babu
+Data Science graduate | SQL • Python • Power BI • ML | Aspiring Data Analyst | Hyderabad
+
+---
+
+## About Me
 
 I'm a **Data Science graduate** from Hyderabad who turns raw data into clear answers using **SQL, Python and dashboards**. I'm building a portfolio of end-to-end analytics projects (question → data → analysis → insight → recommendation), alongside a background in AI/ML and Python development.
 
-## 👤 About Me
 - 🎓 B.Tech in Computer Science & Engineering (Data Science), Sreyas Institute of Engineering and Technology, 2022–2026
 - 💼 Analyst Trainee (IT Help Desk), Savantis Solutions (HCL project), Jun 2026 – Oct 2026
 - 🧪 Internships in Python development (Oasis Infobyte) and cybersecurity (Supraja Technologies)
 - 🔨 Currently building SQL, Excel, Power BI and Tableau analytics projects
 - 📍 Hyderabad, India
 
-## 🎯 Career Focus
-**Data Analyst · Business Intelligence · Healthcare Analytics**
+## Career Focus
+
+**Data Analyst · Business Intelligence · Healthcare Analytics**  
 Open to roles in Hyderabad, Bangalore, Chennai, Andhra Pradesh and Kerala.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Data analysis**
+### Data Analysis
+- Python, SQL, MySQL, SQLite
+- Pandas, NumPy, Jupyter
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Machine Learning & Apps
+- TensorFlow, PyTorch, OpenCV
+- Flask, FastAPI
 
-**Machine learning and apps**
+### Tools
+- Git, GitHub, Docker
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Currently Learning
+- Power BI, Tableau, Excel
 
-**Tools**
+## Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| Project | Description | Tech | Repository |
+|---------|-------------|------|------------|
+| Telangana Weather Dashboard | Power BI dashboard & Python pipeline for Telangana weather, rainfall, drought-risk analysis (2021-2024) | Power BI, Python, SQLite, Prophet | [telangana-weather-dashboard](https://github.com/samalarakshithbabu/telangana-weather-dashboard) |
+| ENSO Climate Analytics | Climate analytics for ENSO cycles, disaster losses, food security | Power BI/Tableau, Python, NOAA/FAO data | [enso-climate-analytics](https://github.com/samalarakshithbabu/enso-climate-analytics) |
+| Music Store SQL Analysis | SQL analysis of music store: sales, RFM segmentation, churn, time-series trends | MySQL, Python, SQLAlchemy | [music-store-sql-analysis](https://github.com/samalarakshithbabu/music-store-sql-analysis) |
+| Rotten Tomatoes Analysis | Pipeline for scraping Rotten Tomatoes movies into SQLite + statistical analysis | Selenium, SQLite, scipy, statsmodels | [rotten-tomatoes-analysis](https://github.com/samalarakshithbabu/rotten-tomatoes-analysis) |
+| Enterprise Multi-Agent BI | Prototype turning natural-language questions into SQL, charts, forecasts | FastAPI, Next.js, ChromaDB, LangGraph | [enterprise-multi-agent-bi](https://github.com/samalarakshithbabu/enterprise-multi-agent-bi) |
+| Lung Cancer Classifier | EfficientNet-B4 classifier with LLM-generated reports (research prototype) | PyTorch, Flask, OpenAI GPT | [Multi-Modal-AI-System-Using-CNN-Imaging-and-LLM-for-Lung-Malignancy-Detection-Reports](https://github.com/samalarakshithbabu/Multi-Modal-AI-System-Using-CNN-Imaging-and-LLM-for-Lung-Malignancy-Detection-Reports) |
+| AI Fitness Coach | Exercise recognition & posture scoring across 25 classes (YOLOv8 + MediaPipe + RF) | FastAPI, React, YOLOv8, MediaPipe | [ai-fitness-coach](https://github.com/samalarakshithbabu/ai-fitness-coach) |
+| Stock Intelligence Platform | AI-powered stock forecasting & backtesting platform | FastAPI, React, XGBoost, LSTM | [stock-intelligence-platform](https://github.com/samalarakshithbabu/stock-intelligence-platform) |
+| LogSentinel | Full-stack error logging & monitoring platform | React, Express, FastAPI, MySQL | [logsentinel](https://github.com/samalarakshithbabu/logsentinel) |
+| DSA Playground | 12 data structures + 11 algorithms in C/Java/Python with web interface | C, Java, Python, JavaScript | [dsa-playground](https://github.com/samalarakshithbabu/dsa-playground) |
 
-**Currently learning and building projects with**
+## In Progress
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-## 📊 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| [Enterprise Multi-Agent BI Platform](https://github.com/samalarakshithbabu/enterprise-multi-agent-bi-platform) | Prototype that turns natural-language questions into SQL, charts and forecasts | Python, FastAPI, SQL |
-| [Lung Malignancy Multi-Modal AI](https://github.com/samalarakshithbabu/Multi-Modal-AI-System-Using-CNN-Imaging-and-LLM-for-Lung-Malignancy-DetectionReports) | EfficientNet-B4 classifier with LLM-generated reports (research prototype, not for clinical use) | Python, PyTorch, Flask |
-| [AI Fitness Coach](https://github.com/samalarakshithbabu/ai-fitness-coach-) | Exercise recognition and posture scoring across 25 classes | YOLOv8, MediaPipe, scikit-learn |
-| [Expense Tracker](https://github.com/samalarakshithbabu/Expense-Tracker-Web-App-using-Flask-SQLite) | Expense CRUD app backed by a SQLite database | Flask, SQLite |
-| [Automatic Recon Tool](https://github.com/samalarakshithbabu/Automatic-Recon-Tool) | GUI reconnaissance tool with PDF reports | Python, Tkinter |
-
-## 🔨 In Progress
 - E-commerce delivery and revenue analytics (SQL + Power BI)
 - HR attrition analysis (Excel + Python)
 - Bank customer churn and segmentation (SQL + Python + Power BI)
 - SQL practice: solved business questions with CTEs and window functions
 
-## 📫 Connect With Me
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samala-rakshith-babu-9374ab281/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samalarakshithbabu21@gmail.com)
+- 📧 **Email**: samalarakshithbabu7@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/samala-rakshith-babu/
+- 🐙 **GitHub**: https://github.com/samalarakshithbabu
 
-📧 samalarakshithbabu21@gmail.com
+---
+
+*This profile repository serves as my professional portfolio hub.*
